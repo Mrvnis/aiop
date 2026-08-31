@@ -1,0 +1,2 @@
+# Test project dependencies
+pytest==7.4.0
